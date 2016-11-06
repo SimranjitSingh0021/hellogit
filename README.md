@@ -1,2 +1,4 @@
 # hellogit
-My first git repo
+This is a New Repo
+and 
+My First Github File.
